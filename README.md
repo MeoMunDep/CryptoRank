@@ -1,0 +1,2 @@
+# CryptoRank
+CryptoRank - AirDrop Script
