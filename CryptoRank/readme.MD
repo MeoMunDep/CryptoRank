@@ -43,7 +43,7 @@ To get started with the bot, follow these steps:
 
 ```
 
-### 2. `datas.txt` 🗂️ - Token in network tab, open devtool while in game to find it.
+### 2. `datas.txt` 🗂️ - Get it from here >>> [Link]((https://t.me/KeoAirDropFreeNe/257/6879)
 
 ```txt
 ey....
