@@ -32,10 +32,13 @@ To get started with the bot, follow these steps:
 
 ```json
 {
-  "limit": 5, //number of accounts run in a row
-  "countdown": 300, //time to restarts all the accounts - count by seconds
-  "country_time": "vi-VN" //timestamp base on the country
+  "limit": 5,
+  "countdown": 300,
+  "country_time": "vi-VN",
+  "delayEachAccount": [5, 8],
+  "skipInvalidProxy": false
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Token in network tab, open devtool while in game to find it.
