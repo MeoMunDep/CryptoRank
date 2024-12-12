@@ -1,5 +1,7 @@
 {
   "limit": 5,
   "countdown": 300,
-  "country_time": "vi-VN"
+  "country_time": "vi-VN",
+  "delayEachAccount": [5, 8],
+  "skipInvalidProxy": false
 }
