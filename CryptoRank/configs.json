@@ -3,5 +3,6 @@
   "countdown": 300,
   "country_time": "vi-VN",
   "delayEachAccount": [5, 8],
-  "skipInvalidProxy": false
+  "skipInvalidProxy": false,
+  "referralCode": 6713068747
 }
