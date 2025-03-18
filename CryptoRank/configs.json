@@ -1,8 +1,8 @@
 {
-  "limit": 5,
+  "howManyAccountsRunInOneTime": 5,
   "countdown": 300,
   "country_time": "vi-VN",
-  "delayEachAccount": [5, 8],
+  "delayEachAccount": [1, 1],
   "skipInvalidProxy": false,
   "referralCode": 6713068747
 }
