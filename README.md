@@ -1,6 +1,6 @@
 📞 Contact
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux.)
+> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
 
 > If you encounter any issues or have questions, feel free to reach out:
@@ -28,7 +28,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents cloudscraper axios colors p-limit https-proxy-agent socks-proxy-agent
+   npm i user-agents cloudscraper axios colors https-proxy-agent socks-proxy-agent
    ```
 
 2. **Prepare Configuration Files:**
@@ -41,13 +41,13 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
-  "limit": 5,
+  "howManyAccountsRunInOneTime": 5,
   "countdown": 300,
   "country_time": "vi-VN",
-  "delayEachAccount": [5, 8],
-  "skipInvalidProxy": false
+  "delayEachAccount": [1, 1],
+  "skipInvalidProxy": false,
+  "referralCode": 6713068747
 }
-
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNee/1530)
@@ -70,12 +70,20 @@ abc...xyz
 ```
 
 ### 4. `proxies.txt` 🌐 - Proxy is an option. If you have one, fill it in; otherwise, leave it blank.
+- [Get it from here](https://www.webshare.io/?referral_code=4l5kb3glsce7)
 
 ```txt
 http://user:password@host:port
 https://user:password@host:port
 socks4://user:password@host:port
-socks5://user:password@host:port
+socks5://user:password@host:port](http://host:port
+https://host:port
+socks4://host:port
+socks5://host:port
+http://user:pass@host:port
+https://user:pass@host:port
+socks4://user:pass@host:port
+socks5://user:pass@host:port)
 ```
 
 💡 Usage:
