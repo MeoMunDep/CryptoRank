@@ -43,7 +43,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 {
   "howManyAccountsRunInOneTime": 5,
   "countdown": 300,
-  "country_time": "vi-VN",
   "delayEachAccount": [1, 1],
   "skipInvalidProxy": false,
   "referralCode": 6713068747
@@ -76,19 +75,19 @@ abc...xyz
 http://user:password@host:port
 https://user:password@host:port
 socks4://user:password@host:port
-socks5://user:password@host:port](http://host:port
+socks5://user:password@host:port
 https://host:port
 socks4://host:port
 socks5://host:port
 http://user:pass@host:port
 https://user:pass@host:port
 socks4://user:pass@host:port
-socks5://user:pass@host:port)
+socks5://user:pass@host:port
 ```
 
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd cryptorank-main/cryptoRank; node meomundep`
+> To run the bot, use the following command: `cd cryptoRank; node meomundep`
 
 🎇Enjoy!
